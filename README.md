@@ -50,9 +50,10 @@ A new Flutter project.
 
 
 12. Error display
-
+<div>
 <img src="https://user-images.githubusercontent.com/57189124/143031547-3ee7ac84-040a-4247-9a7c-2735186c1194.jpg"  width="200" height="400" />
 <img src="https://user-images.githubusercontent.com/57189124/143031561-bdb69258-e4d6-4dda-aefa-8cba5494371b.jpg"  width="200" height="400" />
+</div>
 
 ## Getting Started
 
