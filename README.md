@@ -58,8 +58,8 @@ A new Flutter project.
 ## Video
 
 <div>
-[<img src="https://user-images.githubusercontent.com/57189124/143032168-ffa34453-066a-4d67-bbaa-3366a61bec9a.mp4" width="200" height="400">](https://user-images.githubusercontent.com/57189124/143032168-ffa34453-066a-4d67-bbaa-3366a61bec9a.mp4)
-  [<img src="https://user-images.githubusercontent.com/57189124/143032168-ffa34453-066a-4d67-bbaa-3366a61bec9a.mp4" width="200" height="400">](https://user-images.githubusercontent.com/57189124/143032168-ffa34453-066a-4d67-bbaa-3366a61bec9a.mp4)
+[<img src="https://user-images.githubusercontent.com/57189124/143032168-ffa34453-066a-4d67-bbaa-3366a61bec9a.mp4" width="50%">](https://user-images.githubusercontent.com/57189124/143032168-ffa34453-066a-4d67-bbaa-3366a61bec9a.mp4)
+  [<img src="https://user-images.githubusercontent.com/57189124/143032168-ffa34453-066a-4d67-bbaa-3366a61bec9a.mp4" width="50%">](https://user-images.githubusercontent.com/57189124/143032168-ffa34453-066a-4d67-bbaa-3366a61bec9a.mp4)
 </div>
 
 
