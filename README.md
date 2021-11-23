@@ -55,7 +55,7 @@ A new Flutter project.
 <img src="https://user-images.githubusercontent.com/57189124/143031561-bdb69258-e4d6-4dda-aefa-8cba5494371b.jpg"  width="200" height="400" />
 </div>
 
-[<img src="https://user-images.githubusercontent.com/57189124/143032168-ffa34453-066a-4d67-bbaa-3366a61bec9a.mp4" width="50%">](https://user-images.githubusercontent.com/57189124/143032168-ffa34453-066a-4d67-bbaa-3366a61bec9a.mp4)
+[<img src="https://user-images.githubusercontent.com/57189124/143032168-ffa34453-066a-4d67-bbaa-3366a61bec9a.mp4" width="200" height="400">](https://user-images.githubusercontent.com/57189124/143032168-ffa34453-066a-4d67-bbaa-3366a61bec9a.mp4)
 
 <video width="320" height="240" controls>
   <source src="https://user-images.githubusercontent.com/57189124/143032168-ffa34453-066a-4d67-bbaa-3366a61bec9a.mp4" type="video/mp4">
