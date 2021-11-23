@@ -8,6 +8,47 @@ A new Flutter project.
 
 <img src="https://user-images.githubusercontent.com/57189124/143023970-a338c97d-9bc6-4e16-aa64-985f09e17d71.jpg"  width="200" height="400" />
 
+2 . Sign Up Page
+
+<img src="https://user-images.githubusercontent.com/57189124/143025186-3ffa902d-e35f-482c-b2b7-9e5c0b227453.jpg"  width="200" height="400" />
+
+3 . Password reset Page
+
+<img src="https://user-images.githubusercontent.com/57189124/143025181-551e38cf-35b0-4d72-ab30-aad9d8105edd.jpg"  width="200" height="400" />
+
+4 . Main Caregories Page or Home page
+
+<img src="https://user-images.githubusercontent.com/57189124/143025166-8c071828-7210-441b-8e7b-2c168813a89e.jpg"  width="200" height="400" />
+
+5 . Sub items Page - 1 
+
+<img src="https://user-images.githubusercontent.com/57189124/143025157-c9d95bd3-40b5-420a-811f-5687f6adb435.jpg"  width="200" height="400" />
+
+6 . Sub items Page - 2 
+
+<img src="https://user-images.githubusercontent.com/57189124/143025148-524f40c1-3519-44a6-82c8-de5668c18e34.jpg"  width="200" height="400" />
+
+7 .  Sub items Page - 3
+
+<img src="https://user-images.githubusercontent.com/57189124/143025132-ada98553-93e6-444f-85f6-c703b1819e99.jpg"  width="200" height="400" />
+
+8 . Order Page
+
+<img src="https://user-images.githubusercontent.com/57189124/143025116-42251b81-d2d2-4745-abb5-4360c5ee76a0.jpg"  width="200" height="400" />
+
+9 . Confirm Order dialog
+
+<img src="https://user-images.githubusercontent.com/57189124/143025097-7968ac9b-666b-4856-b372-8df77db88546.jpg"  width="200" height="400" />
+
+10 . Order Success dialog
+
+<img src="https://user-images.githubusercontent.com/57189124/143025086-2c37a83c-37d3-4617-a5b7-808e2fb0d771.jpg"  width="200" height="400" />
+
+11. Logout in Drawer
+
+<img src="https://user-images.githubusercontent.com/57189124/143023970-a338c97d-9bc6-4e16-aa64-985f09e17d71.jpg"  width="200" height="400" />
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
