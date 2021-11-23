@@ -57,9 +57,6 @@ A new Flutter project.
 
 [<img src="https://user-images.githubusercontent.com/57189124/143032168-ffa34453-066a-4d67-bbaa-3366a61bec9a.mp4" width="200" height="400">](https://user-images.githubusercontent.com/57189124/143032168-ffa34453-066a-4d67-bbaa-3366a61bec9a.mp4)
 
-<video width="320" height="240" controls>
-  <source src="https://user-images.githubusercontent.com/57189124/143032168-ffa34453-066a-4d67-bbaa-3366a61bec9a.mp4" type="video/mp4">
-</video>
 
 
 
