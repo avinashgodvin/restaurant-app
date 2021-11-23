@@ -9,7 +9,6 @@ A new Flutter project.
 <img src="https://user-images.githubusercontent.com/57189124/143023970-a338c97d-9bc6-4e16-aa64-985f09e17d71.jpg"  width="200" height="400" />
 
 2 . Sign Up Page
-
 <img src="https://user-images.githubusercontent.com/57189124/143025186-3ffa902d-e35f-482c-b2b7-9e5c0b227453.jpg"  width="200" height="400" />
 
 3 . Password reset Page
