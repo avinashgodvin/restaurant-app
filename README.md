@@ -49,6 +49,11 @@ A new Flutter project.
 <img src="https://user-images.githubusercontent.com/57189124/143026837-0da08c2b-c2ff-4260-bc0b-6bd358e3ceb3.jpg"  width="200" height="400" />
 
 
+12. Error display
+
+<img src="https://user-images.githubusercontent.com/57189124/143031547-3ee7ac84-040a-4247-9a7c-2735186c1194.jpg"  width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/57189124/143031561-bdb69258-e4d6-4dda-aefa-8cba5494371b.jpg"  width="200" height="400" />
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
