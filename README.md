@@ -46,7 +46,7 @@ A new Flutter project.
 
 11. Logout in Drawer
 
-<img src="(https://user-images.githubusercontent.com/57189124/143026837-0da08c2b-c2ff-4260-bc0b-6bd358e3ceb3.jpg"  width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/57189124/143026837-0da08c2b-c2ff-4260-bc0b-6bd358e3ceb3.jpg"  width="200" height="400" />
 
 
 ## Getting Started
